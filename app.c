@@ -7,5 +7,6 @@ int main (int argc, char **argv)
 	printf ("Create new version tag v1.0\n");	
 	printf ("Create new version tag v1.1\n");
 	printf ("Create new version tag v1.2\n");
+	printf ("Create new version tag v1.3\n");
 	return 0;
 }
